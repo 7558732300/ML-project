@@ -2,4 +2,5 @@ numpy
 pandas
 seaborn
 matplotlib
+xgboost
 -e . #this will map to setup.py
